@@ -1,7 +1,7 @@
 Truck Hire
 =========
 
-Truck Hire is an invoice system for hiring trucks to travel across various locations around Australia.  
+Truck Hire is an invoice system for hiring trucks to travel across locations in Australia.  
 Ideal application for furniture removalists and and other types of freight
 
 How it works:
